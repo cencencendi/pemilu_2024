@@ -1,4 +1,4 @@
-# Scrap data Pemilu 2024 (Presidential Election)
+# Scrape data Pemilu 2024 (Presidential Election)
 This Python code scrapes the vote count results for Indonesia's presidential and vice-presidential elections from https://pemilu2024.kpu.go.id/. The output will be stored in a CSV format.
 <img width="1425" alt="Screenshot 2024-02-19 at 13 09 32" src="https://github.com/cencencendi/pemilu_2024/assets/85205431/71e262b8-521d-477c-bcb3-0b5d6ba765d8">
 
@@ -13,4 +13,4 @@ This Python code scrapes the vote count results for Indonesia's presidential and
   
   `pip install -r requirements.txt`
 * Step 4.
-  To obtain the `data_pemilu.csv` file, please run the `scrap_data_pemilu2024.py` script.
+  To obtain the `data_pemilu.csv` file, please run the `scrape_data_pemilu2024.py` script.

@@ -7,7 +7,7 @@ This Python code scrapes the vote count results for Indonesia's presidential and
   Clone the repository by copy and paste the provided code into your terminal or command prompt. Once done, you can just run the code to complete the process. And don't forget to make sure you have installed git on your PC.
   `https://github.com/cencencendi/pemilu_2024.git`
 * Step 2.
-  Make sure to download and install Python on your PC if you haven't already done so. You can find the download link [here](www.python.org).
+  Make sure to download and install Python on your PC if you haven't already done so. You can find the download link [here](https://www.python.org/).
 * Step 3.
   Run this code on your terminal or command prompt to install the requirement packages.
   
